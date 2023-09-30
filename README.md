@@ -38,7 +38,7 @@ User interface (UI): Develop a simple user interface that allows users to intera
 and perform operations such as adding investments, viewing portfolio performance, and generating
 reports.
 
-Conclusion
+1.4 Conclusion
 In conclusion, this project involved creating a financial portfolio management database using SQL.
 The database consists of several interconnected tables, including clients, portfolios, investments,
 and returns, with appropriate foreign key relationships. Dummy data was inserted into the tables
